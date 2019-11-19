@@ -1,13 +1,14 @@
 package com.techrocking.config.server;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 public class ConfigServerApplicationTests {
 	
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
